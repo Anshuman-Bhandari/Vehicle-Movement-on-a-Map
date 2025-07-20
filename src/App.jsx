@@ -93,7 +93,7 @@ export function App() {
     <div className="app">
       <div style={{display: 'flex', alignItems: 'center', justifyContent: 'space-between'}}>
           <h2 style={{textAlign: 'center', textDecoration: 'underline'}}>Vehicle Route Tracker</h2>
-          <a href="" target='_blank'>
+          <a href="https://github.com/Anshuman-Bhandari/Vehicle-Movement-on-a-Map" target='_blank'>
             <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="" width={80} />
           </a>
       </div>
